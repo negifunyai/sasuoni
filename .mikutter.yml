@@ -1,0 +1,9 @@
+---
+slug: :sasuoni
+depends:
+  mikutter: 3.5.8
+  plugin: []
+version: '1.0'
+author: 
+name: さすおに
+description: さすがはお兄様です
