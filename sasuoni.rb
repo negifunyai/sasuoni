@@ -3,7 +3,7 @@
 Plugin.create(:sasuoni) do
   command(:sasuoni,
           name: 'さすおに',
-          condition: Plugin::Command[:CanReaplyAll],
+          condition: Plugin::Command[:CanReplyAll],
           visible: true,
           role: :timeline
          ) do |opt|
